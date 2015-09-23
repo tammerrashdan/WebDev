@@ -1,0 +1,87 @@
+body {
+	background-color: #EEEEEE;
+	font-family: 'Cabin', sans-serif;
+	font-family: 'Shadows Into Light', cursive;
+	margin: 0;
+}
+
+h1 {
+	color: #FF5050;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 64px;
+	margin: 0;
+}
+
+h2 {
+	color: #292929;
+	font-family: 'Cabin', sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+div {
+	display: block;
+}
+
+p {
+	color: #292929;
+	font-family: 'Cabin', sans-serif;
+	font-weight: normal;
+	font-size: 1em;
+}
+
+#title {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background-color: #CFCFCF;
+	text-align: center;
+	padding: 5px auto;
+	margin: 0;
+	z-index: 999;
+}
+
+#mainbody {
+	margin-top: 110px;
+	padding: 20px 20px;
+}
+
+#testingposition {
+	position: relative;
+	width: 600px;
+	margin: auto;
+	padding-bottom: 20px;
+}
+
+#subheader1 {
+	position: relative;
+	margin: 10 auto;
+	text-align: center;
+}
+
+#paragraphone {
+	position: absolute;
+	left: 0px;
+	width: 295; 
+	margin: 0 auto;
+	margin-right: 5px;
+}
+
+#paragraphtwo {
+	width: 295px;
+	margin-left: 305px; 
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#floatingstuff {
+	position: relative;
+}
+
+.mainstuff {
+	max-width: 500px;
+	text-align: left;
+	padding: 10px 90px;
+	margin: auto auto;
+}
