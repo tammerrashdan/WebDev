@@ -7,5 +7,5 @@ $(document).ready(function() {
 		'speedOut'		:	200, 
 		'overlayShow'	:	false
 	});
-	
+
 });
